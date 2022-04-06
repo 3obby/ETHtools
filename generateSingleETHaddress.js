@@ -1,3 +1,5 @@
+//A simple tool to generate a private key while offline
+
 var keythereum = require("keythereum");
 
 var dk = keythereum.create();
